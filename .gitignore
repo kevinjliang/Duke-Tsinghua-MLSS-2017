@@ -1,3 +1,9 @@
-~$*
-.ipynb_checkpoints/
-Figures/
+~$* 
+
+.ipynb_checkpoints
+
+Figures/graph_vis_animation.gif
+Figures/tensorboard_events.png
+Figures/tensorboard_weights.png
+Figures/tf-embedding-mnist.mp4
+MNIST_data

@@ -8,6 +8,6 @@ Most of the content for this workshop is organized into Jupyter IPython notebook
 By the end of the 3 pre-requisite notebooks, you should have a local copy of your fork of this repository on the laptop you intend to bring to the MLSS, know how to open a notebook in Jupyter, and while you don't need to go through the material itself, be able to run all cells ("Cell > Run all") within [01A_TensorFlow_Basics.ipynb](https://github.com/kevinjliang/Duke-Tsinghua-MLSS-2017/blob/master/01A_TensorFlow_Basics.ipynb) without errors. If you have any difficulties with these steps, there will be office hours at the start of the MLSS to help sort out any difficulties.
 
 #### Acknowledgements 
-Thank you to [David Carlson](https://github.com/decarlson), [Shariq Iqbal](https://github.com/shariqiqbal2810), and [Daniel Salo](https://github.com/dancsalo) for testing and feedback. 
+Thank you to [David Carlson](https://github.com/decarlson), [Alex Lew](https://github.com/alex-lew), [Shariq Iqbal](https://github.com/shariqiqbal2810), [Daniel Salo](https://github.com/dancsalo), and [Greg Spell](https://github.com/gspell) for contributions, testing, and feedback. 
 
 <sub>*Obligatory disclaimer: This is not an official Google Product. Any statements or opinions are mine and do not necessarily represent Google in any way.*</sub>
